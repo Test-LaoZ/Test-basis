@@ -2,6 +2,6 @@
   
 
 
-| 微信打赏      | 支付宝打赏 |支付宝领红包 |
+| 微信打赏 (Wechat Reward)     | 支付宝打赏 (Alipay Rewardt) |支付宝领红包 |
 | ----------- | ----------- |----------- |
 | ![Wechat Reward](./Pictures/Wechat%20Reward.png)      | ![Alipay Rewardt](Pictures/Alipay%20Rewardt.png)    | ![Alipay Red Packet.png](Pictures/Alipay%20Red%20Packet.png)   |
