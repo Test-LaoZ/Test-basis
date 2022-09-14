@@ -1,6 +1,6 @@
-> ### 请给博主赏个 :poultry_leg::poultry_leg: ！Please reward the blogger :poultry_leg::poultry_leg: ！
-  
+## Technology 中文社群： https://t.me/LaoZ_Liferay
 
+> ### [请给博主赏个 :poultry_leg::poultry_leg: ！Please reward the blogger :poultry_leg::poultry_leg: ！]()
 
 | 微信打赏 (Wechat Reward)     | 支付宝打赏 (Alipay Rewardt) |支付宝领红包 |
 | ----------- | ----------- |----------- |
